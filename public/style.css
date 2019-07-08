@@ -1,0 +1,25 @@
+.navbar
+{
+    /* border: 1px solid black;  */
+    text-align: center; 
+}
+
+
+.navbar  ul 
+{
+    list-style: none; 
+}
+.link-container
+{
+    border-bottom: 2px solid aqua; 
+    max-width: 992px; 
+    margin: 0px auto; 
+    display: flex; 
+    justify-content: space-around; 
+}
+.link-container a
+{
+    text-decoration: none; 
+    color: black ; 
+    font-size: 20px; 
+}
